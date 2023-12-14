@@ -1,0 +1,119 @@
+# [Mermaid](https://mermaid.js.org/syntax/flowchart.html)
+
+```mermaid
+graph LR
+Head(Circle)-->1(Circle)-->2(Circle) -->3(Circle) -->4(Circle)
+
+```
+::: mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+    A-->E;
+    B-->E;
+:::
+
+```mermaid
+graph LR
+    fa:fa-check-->fa:fa-coffee
+```
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+:::mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+:::
+
+:::mermaid
+gantt
+    title 项目计划
+    section 项目准备
+    定义需求           :a1, 2023-01-01, 30d
+    准备技术文档       :after a1  , 20d
+    完成初步设计       : 20d
+    创建原型           : 12d
+    完成测试文档       : 20d
+
+    section 项目实施
+    编写代码           :a2, 2023-02-20, 12d
+    测试                : 12d
+    修复Bug            : 12d
+    用户测试           : 20d
+
+    section 发布阶段
+    发布                : 2d
+    用户反馈收集       : 20d
+:::
+
+:::mermaid
+    gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+:::
+
+:::mermaid
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+:::
+
+
+---
+Sequence Diagram
+---
+
+:::mermaid
+flowchart LR
+    A-->B
+    B-->C
+    C-->D
+    click A callback "Tooltip for a callback"
+    click B "https://www.github.com" "This is a tooltip for a link"
+    click C call callback() "Tooltip for a callback"
+    click D href "https://www.github.com" "This is a tooltip for a link"
+:::
+
+:::mermaid
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+:::
+
+:::mermaid
+stateDiagram-v2
+    state if_state <<choice>>
+    [*] --> IsPositive
+    IsPositive --> if_state
+    if_state --> False: if n < 0
+    if_state --> True : if n >= 0
+:::
