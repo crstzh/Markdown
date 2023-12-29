@@ -22,7 +22,7 @@ after | (prep) | [ 'ɑ:ftə ] |在...之后 | I will call you after the meeting.
 afternoon | (n) | [ 'ɑ:ftə'nu:n ] | 下午
 afterwards | (adv) | [ 'ɑ:ftəwədz ] | 以后,后来 | The rain stopped, and afterwards, the sun came out, brightening the day.
 again | (adv) |[ ə'gein ] |又,再 | I forgot to pick up milk, so I need to go to the store again.
-against |(prep) |[ ə'genst, ə'geinst ] |	We watched England play against France. 
+against | (prep) | [ ə'genst, ə'geinst ] | 反抗 | We watched England play against France. 
 age | (n) | [ eidʒ ] | 年龄 | I don’t know his age.
 ago | (adv) | [ ə'gəu ] | 以前 | Long time ago, I was a boy.
 agree |(v) | [ ə'gri: ] | 同意,赞成 | I agree with you.
@@ -330,7 +330,7 @@ electricity | (n) | [ ilek'trisiti ] | 电
 elephant | (n) | [ 'elifənt ] | 大象
 else | (pron) | [ els ] | 别的，其他, 另外 | Anything else?
 email | (n & v) | [ 'i:'meil ] | 电子邮件，给...发电子信函
-empty | (adj & v) | [ 'empti ] 空的，倒空,使...空
+empty | (adj & v) | [ 'empti ] | 空的，倒空,使...空
 end | (v & n) | [ end ] | 结束,终点
 engine | (n) | [ 'endʒin ] | 发动机,引擎
 engineer | (n) | [ endʒi'niə ] | 工程师
@@ -461,7 +461,8 @@ grilled | (adj) | [ grild ] | 烤的,炙过的,有格子的
 group | (n) | [ gru:p ] | 团体,组,团
 grow | (v) | [ grəu ] | 种植,生长
 grow up | (phr v) | | 长大,成长
-guest | (n) | [ gest ] | 客人guest-house (n) 客厅
+guest | (n) | [ gest ] | 客人
+guest-house | (n) | | 客厅
 guide | (n) | [ gaid ] | 引导者,指南
 guidebook | (n) | [ 'gaidbʊk ] | 旅行指南
 guitar | (n) | [ gi'tɑ: ] | 吉他
@@ -799,7 +800,9 @@ pay | (v) | [ pei ] | 支付,付清,报偿
 pay for | (phr v) | | 偿还,付款
 pen | (n) | [ pen ] | 钢笔
 pence | (n pl) | [ pens ] | 便士
-pencil | (n) | [ 'pensl ] | 铅笔pen-friend (n) 笔友penny (n) [ 'peni ] 便士
+pencil | (n) | [ 'pensl ] | 铅笔
+pen-friend | (n) | 笔友
+penny | (n) | [ 'peni ] | 便士
 people | (n pl) | [ 'pi:pl ] | 民族,人,人们
 pepper | (n) | [ 'pepə ]|  胡椒粉
 per | (prep) | [ pə:, pə] | 每,每一
@@ -817,7 +820,7 @@ piece | (n) | [ pi:s ] | 块,片,篇
 pillow | (n) | [ 'piləu ] | 枕头
 pilot | (n) | [ 'pailət ] | 飞行员,领航员,引航员
 pink | (adj) | [ piŋk ]|  粉红色的
-pity | (n) | [ 'piti ] | 遗憾,同情,可惜	What a pity!
+pity | (n) | [ 'piti ] | 遗憾,同情,可惜	| What a pity!
 pizza | (n) | [ 'pi:tsə ] | 比萨饼
 place | (n) | [ pleis ] | 地方,处境,职务
 plan | (n & v) | [ plæn ] | 计划,策略,方法
@@ -1220,7 +1223,7 @@ word | (n) | [ wə:d ] | 词,单词,消息,诺言
 work | (n & v) | [ wə:k ] | 作,有效
 world | (n) |  [wə:ld ] | 世界
 would | (v) | [ wud, wəd, əd, d ] | 将,愿意 will 的过去式
-write | (v) | [ rait ] 写
+write | (v) | [ rait ] | 写
 write down | (phr v) | | 写下(把...描写成,减低面价值)
 wrong | (adj) | [ rɔŋ ] | 错误的
 
