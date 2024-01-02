@@ -3,19 +3,20 @@
 # A
 |单词|词性 |音标 | 中文|例句|
 |-------| --|---------| ---- | -----|
-a, an  |(art) | [ ei ];[ æn ] | 一,一个| This is an **apple**.
-able   | (adj) | ['eibl ]      | 能干的,有能力的 | I **am able to** play football.
-about  | (prep) | [ 'əbaut ]   | 关于   |What **about** a cold drink?
-above  | (prep) | [ ə'bʌv ]     | 在...上面  |  The plane flew high above the louds|
+a, an  |(art) | [ ei ];[ æn ] | 一,一个| This is an apple.
+able   | (adj) | ['eibl ]      | 能干的,有能力的 | I am able to play football.
+about  | (prep) | [ 'əbaut ]   | 关于 | What about a cold drink?
+above  | (prep) | [ ə'bʌv ]     | 在...上面 | The plane flew high above the louds|
 accident | (n) | [ 'æksidənt ] | 事故,意外的事| The fire in the kitchen was caused by a cooking accident
 across |(prep) | [ ə'krɔs ]    | 穿过,横过| We walked across the bridge to reach the other side of the river
 activity | (n) | [ æk'tiviti ] | 活动| Outdoor activities such as hiking and biking are popular in this area
 actor | (n) | [ 'æktə ]     | 男演员| I want ot be an actor.
 actually | (adv) | [ 'æktʃuəli ] | 实际上 |She seemed upset, but actually, she was just tired
 add |(v) | [ æd ] | 增加 | Can you add two and three for me? The result is five.
-address | (n)    |[ ə'dres ]    | 住址 | Could you please provide your current address for our records?
-adult | (adj & n)|[ ə'dʌlt, 'ædʌlt ]| 成年的,成熟的；成年人|Admittance to the club is restricted to adults aged 21 and older.adventure | (n) | [ əd'ventʃə ] |冒险,奇遇 | The children's book is filled with exciting adventures of pirates and hidden treasures.
-advertisement | (n)| [ædvər'taizmənt ] |广告 | The advertisement in the magazine showcased the latest fashion trends.
+address | (n)    | [ ə'dres ]    | 住址 | Could you please provide your current address for our records?
+adult | (adj & n)| [ ə'dʌlt, 'ædʌlt ] | 成年的,成熟的；成年人 | Admittance to the club is restricted to adults aged 21 and older.
+adventure | (n) | [ əd'ventʃə ] | 冒险,奇遇 | The children's book is filled with exciting adventures of pirates and hidden treasures.
+advertisement | (n) | [ædvər'taizmənt ] |广告 | The advertisement in the magazine showcased the latest fashion trends.
 aeroplane | (n)| ['ɛərəplein ] | 飞机 | The aeroplane is flying very high.
 afraid |(adj) | [ ə'freid ] | 害怕的,担心的 | I'm afraid of heights, so climbing the mountain was a real challenge for me.
 after | (prep) | [ 'ɑ:ftə ] |在...之后 | I will call you after the meeting.
